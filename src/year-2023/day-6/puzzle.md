@@ -48,7 +48,7 @@ To see how much margin of error you have, determine the number of ways you can b
 
 Determine the number of ways you could beat the record in each race. What do you get if you multiply these numbers together?
 
-Your puzzle answer was 608902.
+To begin, [get your puzzle input](https://adventofcode.com/2023/day/6/input).
 
 ## Part Two
 
