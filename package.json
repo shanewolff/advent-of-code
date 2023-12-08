@@ -1,0 +1,17 @@
+{
+  "name": "advent-of-code",
+  "module": "src/app.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun run src/app.ts",
+    "dev": "bun run --hot src/app.ts",
+    "format": "prettier . --write"
+  },
+  "devDependencies": {
+    "bun-types": "latest",
+    "prettier": "^3.1.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
